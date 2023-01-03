@@ -102,7 +102,7 @@ To create a 3Dmodel from the given isometric drawing using fusion 360 tool.
 5.	Press ENTER to accept the value.
 
 ## INPUT:
-![image](https://user-images.githubusercontent.com/113594316/198523331-05ace360-502b-4569-b9b4-31c60e3cd554.png)
+![image](http://www.lms.ai.saveetha.ac.in/pluginfile.php/72083/assignsubmission_file/submission_files/131687/ex%202.2%20ed.pdf?forcedownload=1)
 
 Output:
 
